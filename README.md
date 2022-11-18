@@ -9,10 +9,10 @@ Evaluating both models and comparing them on the Validation Root Mean Squared Er
 
 2. Partial Dependence Plots
 Generating the following PDPs (for both models):
-a) For predictor/feature "Mfg_Year", which is indicative to the 'Age' of a vehicle.
-b) For predictor/feature "HP", which is indicative to the (horse) power of vehicle's engine. 
-c) For predictor/feature "KM", it indicates vehicle's (accumulated) Kilometers on odometer
+a) For predictor/feature "Mfg_Year", which is indicative of the 'Age' of a vehicle.
+b) For predictor/feature "HP", which is indicative of the (horse) power of the vehicle's engine. 
+c) For predictor/feature "KM", it indicates the vehicle's (accumulated) Kilometers on the odometer
 
 3. Individual Conditional Expectation Plots
-Generating ICE Plots (for both models) on the same predictors as above. The ICE Plots generated for 10 unique points.
+Generating ICE Plots (for both models) on the same predictors as above. The ICE Plots were generated for 10 unique points.
 
